@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1b8"
+  },
+  "NAMA_PROV": "ACEH",
+  "NOMOR_01": 404188,
+  "NOMOR_02": 2400746
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1b9"
+  },
+  "NAMA_PROV": "SUMATERA UTARA",
+  "NOMOR_01": 3936515,
+  "NOMOR_02": 3587786
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1ba"
+  },
+  "NAMA_PROV": "SUMATERA BARAT",
+  "NOMOR_01": 407761,
+  "NOMOR_02": 2488733
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1bb"
+  },
+  "NAMA_PROV": "RIAU",
+  "NOMOR_01": 1248713,
+  "NOMOR_02": 1975287
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1bc"
+  },
+  "NAMA_PROV": "JAMBI",
+  "NOMOR_01": 859833,
+  "NOMOR_02": 1203025
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1bd"
+  },
+  "NAMA_PROV": "SUMATERA SELATAN",
+  "NOMOR_01": 1942987,
+  "NOMOR_02": 2877781
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1be"
+  },
+  "NAMA_PROV": "BENGKULU",
+  "NOMOR_01": 583488,
+  "NOMOR_02": 585999
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1bf"
+  },
+  "NAMA_PROV": "LAMPUNG",
+  "NOMOR_01": 2853585,
+  "NOMOR_02": 1955689
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c0"
+  },
+  "NAMA_PROV": "KEPULAUAN BANGKA BELITUNG",
+  "NOMOR_01": 495729,
+  "NOMOR_02": 288235
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c1"
+  },
+  "NAMA_PROV": "KEPULAUAN RIAU",
+  "NOMOR_01": 550692,
+  "NOMOR_02": 465511
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c2"
+  },
+  "NAMA_PROV": "DKI JAKARTA",
+  "NOMOR_01": 3279547,
+  "NOMOR_02": 3066137
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c3"
+  },
+  "NAMA_PROV": "JAWA BARAT",
+  "NOMOR_01": 10750568,
+  "NOMOR_02": 16077446
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c4"
+  },
+  "NAMA_PROV": "JAWA TENGAH",
+  "NOMOR_01": 16825511,
+  "NOMOR_02": 4944447
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c5"
+  },
+  "NAMA_PROV": "DAERAH ISTIMEWA YOGYAKARTA",
+  "NOMOR_01": 1655174,
+  "NOMOR_02": 742481
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c6"
+  },
+  "NAMA_PROV": "JAWA TIMUR",
+  "NOMOR_01": 16231668,
+  "NOMOR_02": 8441247
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c7"
+  },
+  "NAMA_PROV": "BANTEN",
+  "NOMOR_01": 2537524,
+  "NOMOR_02": 4059514
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c8"
+  },
+  "NAMA_PROV": "BALI",
+  "NOMOR_01": 2351057,
+  "NOMOR_02": 213415
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1c9"
+  },
+  "NAMA_PROV": "NUSA TENGGARA BARAT",
+  "NOMOR_01": 951242,
+  "NOMOR_02": 2011319
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1ca"
+  },
+  "NAMA_PROV": "NUSA TENGGARA TIMUR",
+  "NOMOR_01": 2368982,
+  "NOMOR_02": 305587
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1cb"
+  },
+  "NAMA_PROV": "KALIMANTAN BARAT",
+  "NOMOR_01": 1709896,
+  "NOMOR_02": 1263757
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1cc"
+  },
+  "NAMA_PROV": "KALIMANTAN TENGAH",
+  "NOMOR_01": 830948,
+  "NOMOR_02": 537138
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1cd"
+  },
+  "NAMA_PROV": "KALIMANTAN SELATAN",
+  "NOMOR_01": 823939,
+  "NOMOR_02": 1470163
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1ce"
+  },
+  "NAMA_PROV": "KALIMANTAN TIMUR",
+  "NOMOR_01": 1094845,
+  "NOMOR_02": 870443
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1cf"
+  },
+  "NAMA_PROV": "SULAWESI UTARA",
+  "NOMOR_01": 1220524,
+  "NOMOR_02": 359685
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d0"
+  },
+  "NAMA_PROV": "SULAWESI TENGAH",
+  "NOMOR_01": 914588,
+  "NOMOR_02": 706654
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d1"
+  },
+  "NAMA_PROV": "SULAWESI SELATAN",
+  "NOMOR_01": 2117591,
+  "NOMOR_02": 2809393
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d2"
+  },
+  "NAMA_PROV": "SULAWESI TENGGARA",
+  "NOMOR_01": 555664,
+  "NOMOR_02": 842117
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d3"
+  },
+  "NAMA_PROV": "GORONTALO",
+  "NOMOR_01": 369803,
+  "NOMOR_02": 345129
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d4"
+  },
+  "NAMA_PROV": "SULAWESI BARAT",
+  "NOMOR_01": 475312,
+  "NOMOR_02": 263620
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d5"
+  },
+  "NAMA_PROV": "MALUKU",
+  "NOMOR_01": 599457,
+  "NOMOR_02": 392940
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d6"
+  },
+  "NAMA_PROV": "MALUKU UTARA",
+  "NOMOR_01": 310548,
+  "NOMOR_02": 344823
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d7"
+  },
+  "NAMA_PROV": "PAPUA",
+  "NOMOR_01": 3021713,
+  "NOMOR_02": 311352
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d8"
+  },
+  "NAMA_PROV": "PAPUA BARAT",
+  "NOMOR_01": 508997,
+  "NOMOR_02": 128732
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1d9"
+  },
+  "NAMA_PROV": "KALIMANTAN UTARA",
+  "NOMOR_01": 248239,
+  "NOMOR_02": 106162
+},
+{
+  "_id": {
+    "$oid": "659fc7e2ba3dd12c2c6ea1da"
+  },
+  "NAMA_PROV": "Luar Negri",
+  "NOMOR_01": 570534,
+  "NOMOR_02": 207746
+}]
